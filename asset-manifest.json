@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/talentbox-frontend/static/css/main.c3cf6486.css",
+    "main.js": "/talentbox-frontend/static/js/main.20cc9fc8.js",
+    "static/js/787.cda612ba.chunk.js": "/talentbox-frontend/static/js/787.cda612ba.chunk.js",
+    "index.html": "/talentbox-frontend/index.html",
+    "main.c3cf6486.css.map": "/talentbox-frontend/static/css/main.c3cf6486.css.map",
+    "main.20cc9fc8.js.map": "/talentbox-frontend/static/js/main.20cc9fc8.js.map",
+    "787.cda612ba.chunk.js.map": "/talentbox-frontend/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3cf6486.css",
+    "static/js/main.20cc9fc8.js"
+  ]
+}
